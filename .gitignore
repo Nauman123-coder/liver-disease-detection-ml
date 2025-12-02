@@ -1,0 +1,36 @@
+# Model folders
+saved_model/
+models/
+
+# Common model extensions
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
